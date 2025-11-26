@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;Discord+Bot+Architect;Open+Source+Contributor)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=luckav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luckav-dev&style=for-the-badge&color=green)
 
